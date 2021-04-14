@@ -1,0 +1,6 @@
+# Generated files
+/js-compiled
+/node_modules
+
+# Samples
+/assets/samples
