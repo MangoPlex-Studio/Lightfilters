@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="100mm" height="100mm" version="1.1" viewBox="0 0 100 100" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <title>Lightfilters</title>
+ <defs>
+  <linearGradient id="linearGradient861" x1="5" x2="55" y1="95" y2="5" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#ec0000" offset="0"/>
+   <stop stop-color="#fb27ff" offset="1"/>
+  </linearGradient>
+  <linearGradient id="linearGradient869" x1="50" x2="95" y1="95" y2="5" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#086ece" offset="0"/>
+   <stop stop-color="#51ca08" offset="1"/>
+  </linearGradient>
+ </defs>
+ <path d="m100 100-55-1e-6 15-100h40z" fill="url(#linearGradient869)"/>
+ <path d="m0 2e-6 55-2e-6 -15 100h-40z" fill="url(#linearGradient861)"/>
+ <rect x="25" y="25" width="50" height="50" ry="5" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="4"/>
+ <path d="m55 0h5l-15 100h-5z" fill="#fff"/>
+</svg>
